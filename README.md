@@ -42,7 +42,7 @@ This project is licensed under the **[CC BY-NC 4.0](https://creativecommons.org/
 *   ❌ **You are not allowed to**: Use this project or its derivatives for any **commercial activities** (e.g., integrating it into commercial software for sale, providing paid services, using it in a company's profit-generating project, etc.).
 
 **If you wish to use this project for commercial purposes, please contact the author to obtain a commercial license**:
-*   **Contact Email**: `your-email@example.com` <!-- Replace with your real email -->
+*   **Contact Email**: **362528137@qq.com** <!-- Replace with your real email -->
 
 ### 🛠️ How to Use
 
@@ -97,7 +97,7 @@ DS Code 是一个功能强大的 AI 代码生成与编辑工具，结合了实�
 *   ❌ **您不可以**：将本项目或其衍生作品用于任何**商业性活动**（例如：将其集成到商业软件中销售、提供付费服务、用于公司盈利项目等）。
 
 **如果您希望将本项目用于商业用途，请务必通过以下方式联系作者，获取商业授权**：
-*   **联系邮箱**：`your-email@example.com` <!-- 请替换为您的真实邮箱 -->
+*   **联系邮箱**：**362528137@qq.com** <!-- 请替换为您的真实邮箱 -->
 
 ### 🛠️ 如何使用
 
