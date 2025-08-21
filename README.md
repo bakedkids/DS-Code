@@ -5,7 +5,8 @@
 > A zero-config, AI-powered code editor packed into a single HTML5 file. Download and run! | 一个开箱即用、集成了 AI 助手的单文件 HTML5 代码编辑器。无需安装，下载即用！
 
 ![DS Code Editor Screenshot]
-![输入图片说明](screenshot.png)
+<img width="2515" height="1457" alt="screenshot" src="https://github.com/user-attachments/assets/719c403e-cba1-451a-a113-9db43232bf79" />
+
  <!-- Replace with your actual screenshot -->
 
 ---
