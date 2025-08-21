@@ -4,7 +4,9 @@
 
 > A zero-config, AI-powered code editor packed into a single HTML5 file. Download and run! | 一个开箱即用、集成了 AI 助手的单文件 HTML5 代码编辑器。无需安装，下载即用！
 
-![DS Code Editor Screenshot](screenshot.png) <!-- Replace with your actual screenshot -->
+![DS Code Editor Screenshot]
+![输入图片说明](screenshot.png)
+ <!-- Replace with your actual screenshot -->
 
 ---
 
@@ -19,10 +21,10 @@
 
 ### 🚀 Project Introduction
 
-DS Code is a powerful AI code generation and editing tool. It's ingeniously encapsulated within a single `.html` file, combining real-time code editing, AI chat, streaming output preview, and intelligent code modification features. It aims to provide you with a zero-configuration, high-efficiency programming experience.
+DS Code is a powerful AI code generation and editing tool, combining real-time code editing, AI chat, streaming output preview, and intelligent code modification features. It aims to provide you with a zero-configuration, high-efficiency programming experience.
 
 **Key Features**:
-*   **Zero-Configuration**: Download the `DS-Code.html` file and open it with any modern browser. No installation or environment setup required.
+*   **Zero-Configuration**: Download the `DS-Code.exe` file and open it with any modern browser. No installation or environment setup required.
 *   **AI-Powered**: Integrated with large language models like DeepSeek and Qwen to generate, modify, and explain code.
 *   **Smart Context Matching**: The AI can precisely understand your code context and perform accurate insert, replace, or delete operations.
 *   **Real-time Preview**: See the results of your code instantly as you type.
@@ -43,12 +45,12 @@ This project is licensed under the **[CC BY-NC 4.0](https://creativecommons.org/
 
 ### 🛠️ How to Use
 
-1.  **Download the File**: Click on the `DS-Code.html` file in the repository and then click the "Download" button.
+1.  **Download the File**: Click on the `DS-Code.exe` file in the repository and then click the "Download" button.
 2.  **Get Your API Key**:
     *   Visit [DeepSeek](https://platform.deepseek.com/) to register/login and get your API key.
     *   (Optional) Visit [Tongyi Qianwen](https://help.aliyun.com/zh/qwen/developer-reference/quick-start) to get a Qwen API key.
 3.  **Configure the Key**:
-    *   Double-click the downloaded `DS-Code.html` file to open it.
+    *   Double-click the downloaded `DS-Code.exe` file to open it.
     *   Click the "Settings" button (⚙️) in the top right corner.
     *   In the pop-up window, select the AI model provider (DeepSeek or Qwen) and enter your API key and model name.
     *   Click "Save Settings".
@@ -74,10 +76,10 @@ Contributions of any kind are welcome!
 
 ### 🚀 项目简介
 
-DS Code 是一个功能强大的 AI 代码生成与编辑工具。它被巧妙地封装在一个 `.html` 文件中，结合了实时代码编辑、AI 对话、流式输出预览和智能代码修改等功能，旨在为您提供一个零配置、高效率的编程体验。
+DS Code 是一个功能强大的 AI 代码生成与编辑工具，结合了实时代码编辑、AI 对话、流式输出预览和智能代码修改等功能，旨在为您提供一个零配置、高效率的编程体验。
 
 **核心特点**：
-*   **开箱即用**：下载 `DS-Code.html` 文件，用现代浏览器打开即可使用，无需任何环境配置。
+*   **开箱即用**：下载 `DS-Code.exe` 文件，用现代浏览器打开即可使用，无需任何环境配置。
 *   **AI 驱动**：集成 DeepSeek 和 Qwen 等大语言模型，可生成、修改和解释代码。
 *   **智能上下文匹配**：AI 能精确理解您的代码上下文，并进行精准的插入、替换或删除操作。
 *   **实时预览**：边写代码边看效果，所见即所得。
@@ -98,12 +100,12 @@ DS Code 是一个功能强大的 AI 代码生成与编辑工具。它被巧妙�
 
 ### 🛠️ 如何使用
 
-1.  **下载文件**：点击仓库中的 `DS-Code.html` 文件，然后点击 "下载" 按钮。
+1.  **下载文件**：点击仓库中的 `DS-Code.exe` 文件，然后点击 "下载" 按钮。
 2.  **获取 API 密钥**：
     *   访问 [DeepSeek](https://platform.deepseek.com/) 并注册/登录，获取您的 API 密钥。
     *   （可选）访问 [通义千问](https://help.aliyun.com/zh/qwen/developer-reference/quick-start) 获取 Qwen API 密钥。
 3.  **配置密钥**：
-    *   双击打开下载的 `DS-Code.html` 文件。
+    *   双击打开下载的 `DS-Code.exe` 文件。
     *   点击界面右上角的“设置”按钮（⚙️）。
     *   在弹出的窗口中，选择 AI 模型提供商（DeepSeek 或 Qwen），并填入您的 API 密钥和模型名称。
     *   点击“保存设置”。
